@@ -36,7 +36,7 @@
 
 <footer class="footer">
     <div class="inner">
-        <p>© ANDERSSON ANDRE ONLINE AB 2017 (AAO)<a href="https://www.allabolag.se/5590541131/andersson-andre-online-ab">559054-1131</a>.</p>
+        <p>Git Repo @ <a href="https://github.com/Livijn/rmmbr">Livijn/test</a>.</p>
     </div>
 </footer>
 
